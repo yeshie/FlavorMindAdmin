@@ -1,18 +1,21 @@
 # FlavorMind Admin Panel
+
 > A web-based moderation dashboard for reviewing FlavorMind recipes, cookbooks, ingredient swaps, and admin account activity.
 
 ---
 
 ## 1. What I Have Done
+
 This section outlines the work completed for this assignment/project.
 
-* **Feature Implementation:** Developed an admin panel for dashboard counts, pending submissions, moderation history, and admin profile management.
-* **Database Integration:** Connected Firebase Authentication and Firestore to load recipes, cookbooks, ingredient substitutions, users, and moderation records.
-* **API Development:** Used Firebase client APIs to read and update moderation data directly from Firestore.
-* **UI/UX Design:** Built a responsive Vite React admin interface using TypeScript and Tailwind CSS.
-* **Logic & Algorithms:** Implemented admin-only access checks using the Firebase `admin` custom claim and moderation status workflows.
+- **Feature Implementation:** Developed an admin panel for dashboard counts, pending submissions, moderation history, and admin profile management.
+- **Database Integration:** Connected Firebase Authentication and Firestore to load recipes, cookbooks, ingredient substitutions, users, and moderation records.
+- **API Development:** Used Firebase client APIs to read and update moderation data directly from Firestore.
+- **UI/UX Design:** Built a responsive Vite React admin interface using TypeScript and Tailwind CSS.
+- **Logic & Algorithms:** Implemented admin-only access checks using the Firebase `admin` custom claim and moderation status workflows.
 
 ## 2. Key Features
+
 - Firebase admin login.
 - Dashboard counts for recipes, cookbooks, and ingredient swaps.
 - Approve/reject workflow for submitted recipes and cookbooks.
@@ -21,6 +24,7 @@ This section outlines the work completed for this assignment/project.
 - Admin profile, email, and password update screens.
 
 ## 3. Tech Stack
+
 - **Language:** TypeScript, JavaScript
 - **Framework:** React 19, Vite, Tailwind CSS
 - **Database:** Firebase Authentication, Cloud Firestore
@@ -47,6 +51,7 @@ FlavorMindAdmin/
 ## 5. How To Run
 
 ### Step 1: Prerequisites
+
 - Node.js 18 or newer
 - npm 9 or newer
 - Firebase project with Authentication and Firestore enabled
@@ -105,6 +110,7 @@ npm run build
 ```
 
 ## 7. Contact / Authors
-Name: Your Name  
-Student ID: Your Student ID  
-Email: Your Email
+
+Name: Yeshara Amunugama  
+Student ID: 2523173
+Email: yeshara9044@gmail.com
